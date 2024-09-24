@@ -84,7 +84,7 @@ I am a web developer with basic knowledge of TypeScript, React and Node.js. I am
 <p>Сontact me</p>
 <img src="icons/right.png" width="40" />
   <a href="https://t.me/chornovi1" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
-  <a href="www.linkedin.com/in/oleksandr-halahalenko" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/oleksandr-halahalenko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
   <a href="mailto:o.halahalenko@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a>
   <img src="icons/left.png" width="40" />
 </div>
