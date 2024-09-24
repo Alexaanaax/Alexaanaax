@@ -52,7 +52,7 @@ I am a web developer with basic knowledge of TypeScript, React and Node.js. I am
         <td>Learn</td>
         <td>
           <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="40" alt="MySQL" /></a>
-          <a href="https://nextjs.org/" title="Next" target="_blank"><img src="icons/" width="40" alt="Next" /></a>
+          <a href="https://nextjs.org/" title="Next" target="_blank"><img src="icons/next.png" width="40" alt="Next" /></a>
         </td>
       </tr>
     </tbody>
@@ -62,33 +62,29 @@ I am a web developer with basic knowledge of TypeScript, React and Node.js. I am
 
 <h2>Experience</h2>
 
-🚀 I have hands-on experience working on commercial projects where I used my knowledge of TypeScript and React to bring website designs to life. There are also team and pet projects, you can check them out below.
+🚀 I have hands-on experience working on commercial projects where I utilized my expertise in TypeScript, React, Node.js, and Next.js to bring website designs to life and develop robust back-end solutions. In addition to commercial work, I've contributed to team projects and personal endeavors, which you can check out below.
 
-👨‍💻 During my studies, I actively participated in team projects, used the above-mentioned technologies to implement front-end and back-end. This experience not only strengthened my technical abilities but also taught me the importance of effective communication, teamwork, and agile methodologies.
+👨‍💻 During my studies, I actively participated in team projects, where I applied my skills in TypeScript, React, Node.js, and Next.js to develop both front-end and back-end solutions. This experience not only enhanced my technical abilities but also reinforced the importance of communication, teamwork, and working within agile methodologies.
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px">
-<img src="https://github-readme-stats.vercel.app/api?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MaxsimJSDeveloper's GitHub Stats" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alexaanaax&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Alexaanaax GitHub Stats" width="380"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxsimJSDeveloper&theme=tokyonight&hide_border=true" alt="MaxsimJSDeveloper's GitHub Stats" width="405"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexaanaax&theme=tokyonight&hide_border=true" alt="Alexaanaax GitHub Stats" width="405"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsimJSDeveloper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MaxsimJSDeveloper's GitHub Stats" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexaanaax&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Alexaanaax GitHub Stats" width="300"/>
 </div>
 
 <h2 style="margin-bottom: 0;">Career Goals</h2>
 
-🎯 My ultimate goal is to succeed in full-stack development while constantly pushing the boundaries of what's possible on the web. I thrive in an environment where I can take on new challenges, learn from my colleagues, and use my skills on projects. At the moment, I want to learn the Next.js and Nest frameworks, as well as relational databases.
+🎯 My ultimate goal is to excel in full-stack development while continuously pushing the boundaries of web technologies. I thrive in environments where I can embrace new challenges, learn from peers, and apply my skills to impactful projects. Currently, I'm focused on mastering the Next.js framework and MySQL databases.
 
-<em>I love connecting with different people so I'll be happy to meet you more!</em> 😊
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Gif"/>
-</div>
+<em>I love connecting with different people!</em>
 
 <div align="center">
 <p>Сontact me</p>
 <img src="icons/right.png" width="40" />
-  <a href="https://t.me/JsWEB_Developer" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
-  <a href="http://www.linkedin.com/in/maksymholovko/" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
-  <a href="mailto:golovkomaksim852@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a>
+  <a href="https://t.me/chornovi1" title="Telegram" target="_blank"><img src="icons/tg.png" width="40" alt="Telegram" /></a>
+  <a href="www.linkedin.com/in/oleksandr-halahalenko" title="LinkedIn" target="_blank"><img src="icons/linkedIn.webp" width="40" alt="LinkedIn" /></a>
+  <a href="mailto:o.halahalenko@gmail.com"><img src="icons/gmail.png" width="40" alt="Gmail" /></a>
   <img src="icons/left.png" width="40" />
 </div>
