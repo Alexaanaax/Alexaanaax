@@ -52,7 +52,7 @@ I am a web developer with basic knowledge of TypeScript, React and Node.js. I am
         <td>Learn</td>
         <td>
           <a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="icons/sql.png" width="40" alt="MySQL" /></a>
-          <a href="https://nextjs.org/" title="Next" target="_blank"><img src="icons/nextjs.svg" width="40" alt="Next" /></a>
+          <a href="https://nextjs.org/" title="Next" target="_blank"><img src="icons/next.png" width="40" alt="Next" /></a>
         </td>
       </tr>
     </tbody>
