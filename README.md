@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a web developer with basic knowledge of TypeScript, React and Node.js. I am especially interested in participating in team projects, learning and solving complex problems.
+I am a web developer with basic knowledge of TypeScript, React and Node.js. I am especially interested in participating in team projects, learning and solving complex bugs.
 
 <div style="margin-bottom: 20px">
 <div align="center">
